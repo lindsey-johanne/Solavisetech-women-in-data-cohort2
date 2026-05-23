@@ -5,7 +5,7 @@ name = "Lindsey-Johanne"
 age = 25
 height = 1.65
 favorite_tech_field = "Health Informatics"
-student_status = False
+student_status = No
 print(f"Hi, I'm {name}, {age} years old, {height}m tall. My favorite tech field is {favorite_tech_field}. Currently a student: {student_status}")
 
 # 2. Type Checker
